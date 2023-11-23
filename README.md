@@ -4,9 +4,10 @@ Files (markdown) templates for diverse engineering leadership manager roles.  Al
 
 1. [Postmortem](postmortem.md)  used for a reflection after an incident.
 2. [Strategic initiative](strategic_project.md) A strategic initiative template used to start
-3. [coming soon ...One on One](#) One on one with team member
-4. [coming soon ...On-Off Boarding members](#) People come and go, its normal and repeatable so a template is a good thing.
-5. [coming soon ...Internal Project](#) An internal initiative or project.
-6. [coming soon ...Architecture Design Record](#) A technical document outlining a change decisions coming to the system and why the change was need.
-7. [coming soon ...Metrics](#) Metrics and KPI's are crucial to understanding the team, software and product (keyword OKR)
-8. 
+3. [coming soon ...Internal Project](#) An internal initiative or project.
+4. [coming soon ...One on One](#) One on one with team member
+5. [coming soon ...Recruiting](#) Hiring is usually part of your job might as well be consistent.
+6. [coming soon ...On-Off Boarding members](#) People come and go, its normal and repeatable so a template is a good thing.
+8. [coming soon ...Architecture Design Record](#) A technical document outlining a change decisions coming to the system and why the change was need.
+9. [coming soon ...Metrics](#) Metrics and KPI's are crucial to understanding the team, software and product (keyword OKR)
+10. 
